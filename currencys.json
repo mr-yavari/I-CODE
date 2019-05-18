@@ -1,14 +1,13 @@
-public class RootObject
 {
-    public string AEDN { get; set; }
-    public double AED { get; set; }
-    public string EURN { get; set; }
-    public double EUR { get; set; }
-    public string USDN { get; set; }
-    public double USD { get; set; }
-    public string TRYN { get; set; }
-    public double TRY { get; set; }
-    public string CNYN { get; set; }
-    public double CNY { get; set; }
-    public string timestamp { get; set; }
+  "AEDN": "United Arab Emirates Dirham",
+  "AED": 39.932,
+  "EURN": "Euro",
+  "EUR": 165.000,
+  "USDN": "United States Dollar",
+  "USD": 145.500,
+  "TRYN": "Turkish Lira",
+  "TRY": 25.305,
+  "CNYN": "Chinese Yuan",
+  "CNY": 22.500,
+  "timestamp": "98/2/11"
 }
