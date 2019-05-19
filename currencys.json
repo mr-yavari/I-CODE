@@ -9,5 +9,8 @@
   "TRY": 25.305,
   "CNYN": "Chinese Yuan",
   "CNY": 22.500,
-  "timestamp": "98/2/11"
+  "IRRN": "Iranian Rial",
+  "IRR": 1,
+  "timestamp": "1398/2/11",
+  "Base_rate": "IRR"
 }
