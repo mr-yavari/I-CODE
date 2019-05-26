@@ -1,16 +1,16 @@
 {
   "AEDN": "United Arab Emirates Dirham",
-  "AED": 38.643,
+  "AED": 38.670,
   "EURN": "Euro",
-  "EUR": 157.553,
+  "EUR": 157.410,
   "USDN": "United States Dollar",
-  "USD": 140.519,
+  "USD": 138.500,
   "TRYN": "Turkish Lira",
-  "TRY": 25.305,
+  "TRY": 23.360,
   "CNYN": "Chinese Yuan",
-  "CNY": 21.553,
+  "CNY": 20.580,
   "IRRN": "Iranian Rial",
   "IRR": 1,
-  "timestamp": "1398/3/3",
+  "timestamp": "1398/3/6",
   "Base_rate": "IRR"
 }
